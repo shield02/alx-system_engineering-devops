@@ -12,3 +12,4 @@
 > 9-firstdirdeletion - Script deletes my_first_directory from /tmp/
 > 10-back - Script changes the working directory to the previous one
 > 11-lists - Script list all files in the current directory, parent directory, /boot directory in that order
+> 12-file_type - Script prints the type of file, iamafile in /tmp directory
