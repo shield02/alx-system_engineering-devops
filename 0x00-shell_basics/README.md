@@ -17,3 +17,4 @@
 > 14-copy_html - Script copies all html file from current directory to parent directory but pnly files not in parent directory
 > 100-lets_move - Script copies all files starting with capital letters to /tmp/u
 > 101-clean_emacs - Script deletes all files that end with ~ from current working directory
+> 102-tree - Script creates welcome/ welcome/to/ welcome/to/school tree directory
