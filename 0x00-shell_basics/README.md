@@ -7,3 +7,4 @@
 > 4-listmorefiles - Display current directory content including hidden files
 > 5-listfilesdigitonly - Display current directory, long format, with user and group IDs displayed numerically and hidden files
 > 6-firstdirectory - Creates a directory my_first_directory in the /tmp/ directory
+> 7-movethatfile - Script moves betty file from /tmp/ to /tmp/my_first_directory
