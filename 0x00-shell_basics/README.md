@@ -18,3 +18,4 @@
 > 100-lets_move - Script copies all files starting with capital letters to /tmp/u
 > 101-clean_emacs - Script deletes all files that end with ~ from current working directory
 > 102-tree - Script creates welcome/ welcome/to/ welcome/to/school tree directory
+> 103-commas - Script lists all files and directories in the current directory, seperated by commas
