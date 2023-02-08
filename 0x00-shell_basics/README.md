@@ -11,3 +11,4 @@
 > 8-firstdelete - Script deletes betty file from /tmp/my_first_directory
 > 9-firstdirdeletion - Script deletes my_first_directory from /tmp/
 > 10-back - Script changes the working directory to the previous one
+> 11-lists - Script list all files in the current directory, parent directory, /boot directory in that order
