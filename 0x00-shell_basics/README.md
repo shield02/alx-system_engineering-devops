@@ -15,3 +15,4 @@
 > 12-file_type - Script prints the type of file, iamafile in /tmp directory
 > 13-symbolic_link - Script creates a symbolic link from current directory to /bin/ls
 > 14-copy_html - Script copies all html file from current directory to parent directory but pnly files not in parent directory
+> 100-lets_move - Script copies all files starting with capital letters to /tmp/u
