@@ -11,4 +11,5 @@
 > 9-John_Doe - Script add permission -rwxr-x-wx to hello
 > 10-mirror_permissions - Script copies permission from one file to another file
 > 11-directories_permissions - Script adds execute permission to all subdirectories of the current directory for owner and all other users
-> 
+> 12-directory_permissions - Script creates a new directory in working directory with mode 751
+>  
