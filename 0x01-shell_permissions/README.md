@@ -9,4 +9,6 @@
 > 7-everybody - Script adds execute permission to owner, group, others for hello
 > 8-James_Bond - Script removes all permissions for owner, group but adds all permissions for other users
 > 9-John_Doe - Script add permission -rwxr-x-wx to hello
-> 10-mirror_permissions - Script copies permission from one file to another file 
+> 10-mirror_permissions - Script copies permission from one file to another file
+> 11-directories_permissions - Script adds execute permission to all subdirectories of the current directory for owner and all other users
+> 
