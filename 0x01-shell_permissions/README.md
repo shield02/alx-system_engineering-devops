@@ -13,4 +13,5 @@
 > 11-directories_permissions - Script adds execute permission to all subdirectories of the current directory for owner and all other users
 > 12-directory_permissions - Script creates a new directory in working directory with mode 751
 > 13-change_group - Script changes the group of a file
-> 
+> 100-change_owner_and_group - Script changes the owner and group of all files and directories in the working directory
+>
