@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{if(ls -l hello | $3 == "guillaume"} {chmod betty hello}}' hello
+find hello -user 'guillaume' -exec chown betty hello
