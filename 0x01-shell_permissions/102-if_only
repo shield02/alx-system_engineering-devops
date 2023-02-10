@@ -1,2 +1,2 @@
 #!/bin/bash
-awk 'ls -l hello | $3 == "guillaume"' {chmod betty hello} hello
+awk '{if(ls -l hello | $3 == "guillaume"} {chmod betty hello}}' hello
