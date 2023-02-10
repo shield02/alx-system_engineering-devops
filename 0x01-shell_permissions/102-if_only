@@ -1,2 +1,5 @@
 #!/bin/bash
-awk '{if($3 == betty) {chown guillaume hello}}' hello
+file_owner=$(ls -l hello | awk '{print $3}')
+if ["$file_owner" == "guillaume"]; then
+	chown betty hello
+fi
