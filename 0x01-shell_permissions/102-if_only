@@ -1,5 +1,2 @@
 #!/bin/bash
-file_owner=$(ls -l hello | awk '{print $3}')
-if ["$file_owner" == "guillaume"]; then
-	chown betty hello
-fi
+awk 'ls -l hello | $3 == "guillaume"' {chmod betty hello} hello
