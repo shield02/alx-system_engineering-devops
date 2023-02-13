@@ -21,3 +21,4 @@ This project has scripts that perform shell, I/O redirections
 > 19-AZ - Script that replaces all characters A and c from input to another letter
 > 20-hiago - Script that removes all letters c and C from a string
 > 21-reverse - Script that reverses the input of a file
+> 22-users_and_home - Script that displays users with their home directory
