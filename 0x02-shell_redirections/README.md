@@ -15,4 +15,4 @@ This project has scripts that perform shell, I/O redirections
 > 13-unique - Script script that takes a list of words as input and prints only words that appear exactly once
 > 14-findthatword - Script that displays lines contains the pattern "root" from the file /etc/passwd file
 > 15-counttnatword - Script that displays the number of lines that contain the pattern "bin" in /etc/passwd
->
+> 16-whatsnext - Script that displays lines containing the pattern 'root" and 3 lines after them in /etc/passwd'
