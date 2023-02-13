@@ -5,3 +5,4 @@ This project has scripts that perform shell, I/O redirections
 > 3-twofiles - Script to display content of two files in stdout
 > 4-lastlines - Script to display the last 10 lines of a file
 > 5-firstlines - Script to display the first 10 lines of a file
+> 6-third_line - Script to display the third line of a file
