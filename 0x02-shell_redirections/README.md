@@ -18,3 +18,5 @@ This project has scripts that perform shell, I/O redirections
 > 16-whatsnext - Script that displays lines containing the pattern 'root" and 3 lines after them in /etc/passwd
 > 17-hidethisword - Script to display all the lines in the file /etc/passwd that do not contain the pattern "bin"
 > 18-letteronly - Script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
+> 19-AZ - Script that replaces all characters A and c from input to another letter
+> 
