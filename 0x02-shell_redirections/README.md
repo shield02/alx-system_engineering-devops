@@ -7,3 +7,4 @@ This project has scripts that perform shell, I/O redirections
 > 5-firstlines - Script to display the first 10 lines of a file
 > 6-third_line - Script to display the third line of a file
 > 7-file - Script to create a file with some file name
+> 8-cwd_state - Script to save the current state of a directory to a file
