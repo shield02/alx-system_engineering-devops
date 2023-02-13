@@ -25,3 +25,4 @@ This project has scripts that perform shell, I/O redirections
 > 100-empty_casks - Script that finds all empty files and directories in the current directory and all sub-directories
 > 101-gifs - Script that lists all the files with a .gif extension in the current directory and all its sub-directories
 > 102-acrostic - Script that decodes acrostic that use the first letter of each line
+> 103-the_biggest_fan - Script that parse a log file, and find most frequent lines
