@@ -12,4 +12,4 @@ This project has scripts that perform shell, I/O redirections
 > 10-no_more_js - Script to remove all .js files from current directory and all subdirectories. Only ordinary files should be removed
 > 11-directories - Script to count the number of directories and sub-directories in the current directory
 > 12-newest_files - Script to count 10 newest files in current directory
-
+> 13-unique - Script script that takes a list of words as input and prints only words that appear exactly once
