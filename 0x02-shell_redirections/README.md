@@ -14,3 +14,5 @@ This project has scripts that perform shell, I/O redirections
 > 12-newest_files - Script to count 10 newest files in current directory
 > 13-unique - Script script that takes a list of words as input and prints only words that appear exactly once
 > 14-findthatword - Script that displays lines contains the pattern "root" from the file /etc/passwd file
+> 15-counttnatword - Script that displays the number of lines that contain the pattern "bin" in /etc/passwd
+>
