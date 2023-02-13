@@ -9,3 +9,4 @@ This project has scripts that perform shell, I/O redirections
 > 7-file - Script to create a file with some file name
 > 8-cwd_state - Script to save the current state of a directory to a file
 > 9-duplicate_last_line - Script to driplicate the last line of a file
+> 10-no_more_js - Script to remove all .js files from current directory and all subdirectories. Only ordinary files should be removed
