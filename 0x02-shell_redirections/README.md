@@ -22,3 +22,4 @@ This project has scripts that perform shell, I/O redirections
 > 20-hiago - Script that removes all letters c and C from a string
 > 21-reverse - Script that reverses the input of a file
 > 22-users_and_home - Script that displays users with their home directory
+> 100-empty_casks - Script that finds all empty files and directories in the current directory and all sub-directories
