@@ -6,3 +6,4 @@ This project has scripts that perform shell, I/O redirections
 > 4-lastlines - Script to display the last 10 lines of a file
 > 5-firstlines - Script to display the first 10 lines of a file
 > 6-third_line - Script to display the third line of a file
+> 7-file - Script to create a file with some file name
