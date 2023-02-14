@@ -10,4 +10,5 @@ It contains different projects arranged into directories
 > 5-local_variables - Script that lists all local variables and environment variables, and functions
 > 6-create_local_variable - Script that creates a new local variable
 > 7-create_global_variable - Script that creates a global variable
-> 
+> 8-true_knowledge - Script that prints the result of the addition of a number with the value stored in an environment variable'
+>
