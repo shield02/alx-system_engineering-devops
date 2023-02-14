@@ -15,4 +15,6 @@ It contains different projects arranged into directories
 > 10-love_exponent_breath - Script that displays the result of BREATH to the power of LOVE
 > 11-binary_to_decimal - Script that converts a number from base 2 to base 10
 > 12-combinations - Script that prints all possible combinations of two letters, except oo
-> 13-print_float - Script that prints a number with two decimal places 
+> 13-print_float - Script that prints a number with two decimal places
+> 100-decimal_to_hexadecimal - Script that converts a number from base 10 to base 16
+> 
