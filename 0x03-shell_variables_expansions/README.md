@@ -11,4 +11,5 @@ It contains different projects arranged into directories
 > 6-create_local_variable - Script that creates a new local variable
 > 7-create_global_variable - Script that creates a global variable
 > 8-true_knowledge - Script that prints the result of the addition of a number with the value stored in an environment variable'
->
+> 9-divide_and_rule - Script that prints the result of POWER divided by DIVIDE
+> 10
