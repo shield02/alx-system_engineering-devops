@@ -13,4 +13,5 @@ It contains different projects arranged into directories
 > 8-true_knowledge - Script that prints the result of the addition of a number with the value stored in an environment variable'
 > 9-divide_and_rule - Script that prints the result of POWER divided by DIVIDE
 > 10-love_exponent_breath - Script that displays the result of BREATH to the power of LOVE
-> 11
+> 11-binary_to_decimal - Script that converts a number from base 2 to base 10
+> 
