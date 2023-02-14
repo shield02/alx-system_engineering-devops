@@ -19,3 +19,4 @@ It contains different projects arranged into directories
 > 100-decimal_to_hexadecimal - Script that converts a number from base 10 to base 16
 > 101-rot13 - Script that encodes and decodes text using the rot13 encryption
 > 102-odd - Script that prints every other line from the input, statrting with first line
+> 103-water_and_stir - Script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
