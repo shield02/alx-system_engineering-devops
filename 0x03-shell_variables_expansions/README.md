@@ -6,4 +6,6 @@ It contains different projects arranged into directories
 > 1-hello_you - Script to print 'hello user', user being the current user
 > 2-path - Script to add a directory /action to the PATH variable. /action is the last directory shell looks into when looking for a program
 > 3-paths - Script that counts the number of directories in the PATH variable
-> 4-gloabal_variables - Script that lists environment variables 
+> 4-gloabal_variables - Script that lists environment variables
+> 5-local_variables - Script that lists all local variables and environment variables, and functions
+>
