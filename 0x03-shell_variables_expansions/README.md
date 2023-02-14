@@ -12,4 +12,5 @@ It contains different projects arranged into directories
 > 7-create_global_variable - Script that creates a global variable
 > 8-true_knowledge - Script that prints the result of the addition of a number with the value stored in an environment variable'
 > 9-divide_and_rule - Script that prints the result of POWER divided by DIVIDE
-> 10
+> 10-love_exponent_breath - Script that displays the result of BREATH to the power of LOVE
+> 11
