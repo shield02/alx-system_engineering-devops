@@ -17,4 +17,5 @@ It contains different projects arranged into directories
 > 12-combinations - Script that prints all possible combinations of two letters, except oo
 > 13-print_float - Script that prints a number with two decimal places
 > 100-decimal_to_hexadecimal - Script that converts a number from base 10 to base 16
+> 101-rot13 - Script that encodes and decodes text using the rot13 encryption
 > 
