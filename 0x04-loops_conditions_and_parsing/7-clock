@@ -9,7 +9,7 @@ do
 	while [ $MINUTES -lt 60 ]
 	do
 		echo $MINUTES
-		(( $MINUTES++ ))
+		(( MINUTES++ ))
 	done
 	(( H++ ))
 done
