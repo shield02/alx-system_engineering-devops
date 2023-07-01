@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+# Bash script that loops from 1 to 10 with certain conditions
+
+C=1
+while [ $C -lt 11 ]
+do
+	if [ $C = 4 ]
+	then
+		echo "bad luck"
+	elif [ $C = 8 ]
+	then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+	(( C++ ))
+done
+
