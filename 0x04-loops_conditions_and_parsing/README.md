@@ -9,3 +9,4 @@
 * 6-superstitious_numbers - Bash script that displays numbers from 1 to 20 and displays `4` *and then* `bad luck from China` for the 4th loop iteration displays `9`*and then* `bad luck from Japan` for the 9th loop iteration displays `17` *and then* `bad luck from Italy` for the 17th loop iteration
 * 7-clock - Bash script that displays the time for 12 hours and 59 minutes display hours from 0 to 12 display minutes from 1 to 59
 * 8-for_ls - Bash script that displays the content of the current directory in a list format where only the part of the name after the first dash is displayed
+* 9-to_file_or_not_to_file - Bash script that gives you information about a file
