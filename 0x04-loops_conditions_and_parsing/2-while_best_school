@@ -2,7 +2,7 @@
 # Bash script that displays 'Best School' 10 times using while
 
 C=0
-while [ c -lt 10 ]
+while [ $C -lt 10 ]
 do
 	echo "Best School"
 	(( c++ ))
