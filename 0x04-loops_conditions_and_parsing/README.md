@@ -10,3 +10,4 @@
 * 7-clock - Bash script that displays the time for 12 hours and 59 minutes display hours from 0 to 12 display minutes from 1 to 59
 * 8-for_ls - Bash script that displays the content of the current directory in a list format where only the part of the name after the first dash is displayed
 * 9-to_file_or_not_to_file - Bash script that gives you information about a file
+* 10-fizzbuzz - Bash script that displays numbers from 1 to 100. Displays `FizzBuzz` when the number is a multiple of 3 and 5. Displays `Fizz` when the number is multiple of 3. Displays `Buzz` when the number is a multiple of 5. Otherwise, displays the number in a list format
