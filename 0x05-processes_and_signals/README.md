@@ -6,3 +6,4 @@
 * 3-show_your_bash_pid_made_easy - Bash script that displays the PID, along with the process name, of processes whose name contain the word bash
 * 4-to_infinity_and_beyond - Bash script that displays `To infinity and beyond` indefinitely
 * 5-dont_stop_me_now - Bash script that stops `4-to_infinity_and_beyond` process
+* 6-stop_me_if_you_can - Bash script that stops `4-to_infinity_and_beyond` process without using `kill` or `killall`
