@@ -9,3 +9,4 @@
 * 6-stop_me_if_you_can - Bash script that stops `4-to_infinity_and_beyond` process without using `kill` or `killall`
 * 7-highlander - Bash script that displays `To infinity and beyond` indefinitely With a `sleep 2` in between each `I am invincible!!!` when receiving a `SIGTERM` signaliteration
 * 8-beheaded_process - Bash script that kills the process 7-highlander
+* 100-process_and_pid_file - Bash script that creates the file `/var/run/myscript.pid` containing its PID, displays `To infinity and beyond` indefinitely, displays `I hate the kill command` when receiving a SIGTERM signal, displays `Y U no love me?!` when receiving a SIGINT signal, deletes the file `/var/run/myscript.pid` and terminates itself when receiving a SIGQUIT or SIGTERM signal
