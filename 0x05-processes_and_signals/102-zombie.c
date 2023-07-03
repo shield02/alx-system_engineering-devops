@@ -35,7 +35,7 @@ int main(void)
 		zombie = fork();
 		if (!zombie)
 			return (0);
-		i++
+		i++;
 		printf("Zombie process created, PID: %d\n", zombie);
 	}
 
