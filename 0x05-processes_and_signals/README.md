@@ -11,3 +11,4 @@
 * 8-beheaded_process - Bash script that kills the process 7-highlander
 * 100-process_and_pid_file - Bash script that creates the file `/var/run/myscript.pid` containing its PID, displays `To infinity and beyond` indefinitely, displays `I hate the kill command` when receiving a SIGTERM signal, displays `Y U no love me?!` when receiving a SIGINT signal, deletes the file `/var/run/myscript.pid` and terminates itself when receiving a SIGQUIT or SIGTERM signal
 * manage_my_process - bash script that indefinitely writes `I am alive!` to the file `/tmp/my_process`. In between every `I am alive!` message, the program should pause for 2 seconds
+* 101-manage_my_process - Bash (init) script that manages `manage_my_process`
