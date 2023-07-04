@@ -5,4 +5,5 @@
 2-repetition_token_1 - regular expression that will match some given cases
 3-repetition_token_2 - regular expression that will match the above cases
 4-repetition_token_3 - regular expression that will match certain cases of a string
+5-beginning_and_end -  regular expression must be exactly matching a string that starts with `h` ends with `n` and can have any single character in between
 
