@@ -8,4 +8,4 @@
 5-beginning_and_end -  regular expression must be exactly matching a string that starts with `h` ends with `n` and can have any single character in between
 6-phone_number - regular expression must match a 10 digit phone number
 7-OMG_WHY_ARE_YOU_SHOUTING - regular expression must be only matching: capital letters
-
+100-textme - script that outputs: `[SENDER]`,`[RECEIVER]`,`[FLAGS]`. SENDER phone number or name (including country code if present), RECEIVER phone number or name (including country code if present), FLAGS that were used
