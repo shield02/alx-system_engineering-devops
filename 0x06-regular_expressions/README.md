@@ -4,4 +4,5 @@
 1-repetition_token_0 - regular expression that will match some given cases of string
 2-repetition_token_1 - regular expression that will match some given cases
 3-repetition_token_2 - regular expression that will match the above cases
+4-repetition_token_3 - regular expression that will match certain cases of a string
 
