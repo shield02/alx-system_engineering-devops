@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# script that displays all active IPv4s IPs on the machine it is executed
+
+ifconfig | grep -Eo "inet (addr:)?([0-9]*\.){3}[0-9]*" | awk '{print $2}'
+
