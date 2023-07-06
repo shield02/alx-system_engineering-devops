@@ -33,3 +33,4 @@
     * Which statement is correct for the TCP worker:
     1. Have you received boxes x, y, z?
     2. May I increase the rate at which I am sending you boxes?
+* 4-TCP_and_UDP_ports - script to show only listening sockets with PID and name of program to which each socket belongs
