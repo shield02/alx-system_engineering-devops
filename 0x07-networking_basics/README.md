@@ -1,7 +1,7 @@
 ### 0x07. Networking basics #0
 
 * 0-OSI_model - Answer to these questions: What is the OSI model? & How is the OSI model organized?
-* 1-types_of_network - Answer to these questions:  \
+* 1-types_of_network - Answer to these questions:
     * What type of network a computer in local is connected to?
     1. Internet
     2. WAN
@@ -14,7 +14,7 @@
     1. Internet
     2. WAN
     3. LAN
-* 2-MAC_and_IP_address - Answer to these questions:  \
+* 2-MAC_and_IP_address - Answer to these questions:
     * What is a MAC address?
     1. The name of a network interface
     2. The unique identifier of a network interface
@@ -23,8 +23,8 @@
     1. Is to devices connected to a network what postal address is to houses
     2. The unique identifier of a network interface
     3. Is a number that network devices use to connect to networks
-* 3-UDP_and_TCP - Answer to these questions:  \
-    * Which statement is correct for the TCP box:  \
+* 3-UDP_and_TCP - Answer to these questions:
+    * Which statement is correct for the TCP box:
     1. It is a protocol that is transferring data in a slow way but surely
     2. It is a protocol that is transferring data in a fast way and might loss data along in the process
     * Which statement is correct for the UDP box:
