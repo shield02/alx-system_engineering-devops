@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# configure Nginx so that its HTTP response contains a custom header
+# configure a brand new Ubuntu machine
+
+apt-get update
+apt-get -y install nginx
+sed -i "/server_name _;/a add_header X-Served-By '$HOSTNAME';" /etc/nginx/sites-available/default
+service nginx restart
