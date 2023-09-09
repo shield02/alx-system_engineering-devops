@@ -56,4 +56,4 @@ backend www-backend
 	server 246800-web-02 54.160.79.86:80 check
 
 backend letsencrypt-backend
-	server letsencrypt 127.0.0.1:246800
+	server letsencrypt 127.0.0.1
