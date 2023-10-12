@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """
 A function to Query Reddit API
-Query titles of top ten posts of a given subreddit
 """
 import requests
 
