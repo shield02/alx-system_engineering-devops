@@ -1,5 +1,5 @@
-# Fix Nginx "accept4() failed (24: Too many open files)"
-# message when simulting user requests
+# Fix Nginx "testing for too many request"
+# benchmarking our server
 
 exec {'modify max open files limit setting':
   command => 'sed -i "s/15/10000/" /etc/default/nginx && sudo service nginx restart',
