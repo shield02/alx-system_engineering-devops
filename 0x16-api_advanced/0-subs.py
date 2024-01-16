@@ -9,7 +9,7 @@ def number_of_subscribers(subreddit):
     """
     Returns the number of subscribers of reddit
     """
-    url = f"https://api.reddit.com/r/{subreddit}/about"
+    url = (f"https://api.reddit.com/r/{subreddit}/about")
     headers = {'User-Agent': 'CustomUserAgen/1.1'}
     res = requests.get(url=url, headers=headers, allow_redirects=False)
 
