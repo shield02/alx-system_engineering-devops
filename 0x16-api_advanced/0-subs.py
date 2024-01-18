@@ -10,14 +10,15 @@ def number_of_subscribers(subreddit):
     """
     Returns the number of subscribers of reddit
     """
+    if subreddit is None or not isinstance(subreddit, str):
+        return 0
+
     url = f"https://api.reddit.com/r/{subreddit}/about"
     headers = {'User-Agent': 'Google Chrome Version 81.0.4044.129'}
     res = requests.get(url=url, headers=headers, allow_redirects=False)
-
-    if res.status_code != 200:
-        return 0
     res = res.json()
-    if 'data' in res:
+
+    try:
         return res.get('data').get('subscribers')
-    else:
+    except Exception:
         return 0
