@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
-recursively queries the Reddit API, parses the title of all hot articles, and 
-prints a sorted count of given keywords (case-insensitive, delimited by spaces. 
+recursively queries the Reddit API, parses the title of all hot articles, and
+prints a sorted count of given keywords (case-insensitive, delimited by spaces.
 """
 import requests
 
@@ -25,7 +25,7 @@ def count_words(subreddit, word_list, instances={}, after="", count=0):
         "limit": 100
     }
     res = requests.get(url=url, headers=headers, params=params,
-                            allow_redirects=False)
+                       allow_redirects=False)
     try:
         results = res.json()
         if res.status_code == 404:
