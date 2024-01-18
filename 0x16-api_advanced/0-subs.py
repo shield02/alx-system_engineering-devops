@@ -11,7 +11,7 @@ def number_of_subscribers(subreddit):
     Returns the number of subscribers of reddit
     """
     if subreddit is None or not isinstance(subreddit, str):
-        return 0
+        return(0)
 
     url = "https://api.reddit.com/r/{}/about".format(subreddit)
     headers = {'User-Agent': 'Google Chrome Version 81.0.4044.129'}
@@ -21,4 +21,4 @@ def number_of_subscribers(subreddit):
     try:
         return result.get('data').get('subscribers')
     except Exception:
-        return 0
+        return(0)
