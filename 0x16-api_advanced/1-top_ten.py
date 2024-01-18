@@ -13,7 +13,8 @@ def top_ten(subreddit):
     url = f"https://api.reddit.com/r/{subreddit}?sort=hot&limit=10"
     headers = {'User-Agent': 'Google Chrome Version 81.0.4044.129'}
     params = {'limit': 10}
-    res = requests.get(url=url, headers=headers, params=params, allow_redirects=False)
+    res = requests.get(url=url, headers=headers,
+                       params=params, allow_redirects=False)
 
     if res.status_code != 200:
         print(None)
